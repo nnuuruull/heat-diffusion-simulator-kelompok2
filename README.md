@@ -85,7 +85,7 @@ BTCS_HeatDiffusion_Simulator/
 
 1. **Clone repository** ke komputer:
    ```bash
-   git clone https://github.com/<username>/btcs-heat-diffusion.git
+   git clone https://github.com/nnuuruull/heat-diffusion-simulator-kelompok2
    cd btcs-heat-diffusion
    ```
 
@@ -136,17 +136,19 @@ dengan \(r = \frac{\alpha \Delta t}{\Delta x^2}\).
 
 ## 🧑‍💻 Pengembang
 **Nama:** Kelompok 2
-**Mata Kuliah:** Fisika Komputasi II  
+**Mata Kuliah:** Fisika Komputasi II
 **Institusi:** Universitas Airlangga
 **Tahun:** 2025  
 
 ---
 
 ## 📜 Lisensi
-Proyek ini dilisensikan di bawah **MIT License** — silakan digunakan untuk keperluan akademik atau riset.
+Proyek ini dibuat untuk keperluan akademik dalam mata kuliah **Fisika Komputasi II**.  
+Seluruh kode dapat digunakan kembali untuk tujuan pembelajaran, dengan mencantumkan kredit kepada pembuat aslinya.
 
 ---
 
 ## 🌟 Ucapan Terima Kasih
-Terima kasih kepada dosen pengampu dan rekan-rekan yang telah membantu dalam pengembangan proyek ini.  
-Proyek ini merupakan bagian dari tugas pada mata kuliah **Fisika Komputasi II** dengan topik **Simulasi Difusi Panas 1D**.# heat-diffusion-simulator-kelompok2
+Terima kasih kepada dosen pengampu dan rekan-rekan yang telah membantu dalam pengembangan proyek ini.
+Proyek ini merupakan bagian dari tugas pada mata kuliah **Fisika Komputasi II** dengan topik **Simulasi Difusi Panas 1D**.
+# heat-diffusion-simulator-kelompok2
