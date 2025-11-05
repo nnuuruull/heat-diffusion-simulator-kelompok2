@@ -151,4 +151,3 @@ Seluruh kode dapat digunakan kembali untuk tujuan pembelajaran, dengan mencantum
 ## 🌟 Ucapan Terima Kasih
 Terima kasih kepada dosen pengampu dan rekan-rekan yang telah membantu dalam pengembangan proyek ini.
 Proyek ini merupakan bagian dari tugas pada mata kuliah **Fisika Komputasi II** dengan topik **Simulasi Difusi Panas 1D**.
-# heat-diffusion-simulator-kelompok2
